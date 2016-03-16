@@ -1,4 +1,4 @@
-# Projet de test par Alice et Bob
+# Projet de test par Alice et Bob, et leurs charmants amis.
 
 Ceci est un **projet de test** collaboratif.
 
